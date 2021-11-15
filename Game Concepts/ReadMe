@@ -1,0 +1,11 @@
+inside this read me we have 3 sets of game assignments (balls on a board, future space frogs & desert racer.)
+
+balls on a board was our first assignment, this was to create 4 balls that move in unison around a checkard board. each ball has a different colour and when a certain button
+pressed the balls would change colour in a clockwise potion. the game would also be paused etc
+
+
+future space frogs was a driving game about squishing frogs, there are 4 frogs that spawn in a red cube, each frog would move out of the cube and you as the car needed to drive
+into the frog and squish it. when 1 frog is kiled the next one is allowed to move, if any of the frogs get to the end (water) the game would end and you would lose
+
+
+desert racer is a basic racing game. you would need to program the speed of the racer and all collisions of the track.
